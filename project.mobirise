@@ -610,7 +610,7 @@
           "subtitle1": "identification/gateway&nbsp;",
           "caption1": "MetaMask is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run Ethereum dApps right in your browser without running a full Ethereum node.\n<br><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://metamask.io/download.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WHAT?</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://metamask.io/download.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-action-settings-ethernet mbr-iconfont mbr-iconfont-btn\"></span>install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mdi-action-settings-ethernet mbr-iconfont mbr-iconfont-btn\"></span>WHAT?</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -659,7 +659,7 @@
           "subtitle1": "Google Apps/OFFICE365 upgrade",
           "caption1": "Blockstack is a full-stack decentralized computing network that enables a new generation of applications where developers and users can interact fairly and securely. Blockstack uses blockchain technology to build protocols and developer tools designed to enable a fair and open Internet that returns digital rights to developers and consumers. Led by some of the world’s foremost experts on distributed systems, Blockstack allows users to own their own data that they can take with them from app to app in the ecosystem, along with their Blockstack ID that eliminates the need for password-based logins. The end result is privacy, security, and freedom.\n<br>\n<br><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Create.ID</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">what?</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"icon54-v1-domino mbr-iconfont mbr-iconfont-btn\"></span>Create.ID</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"icon54-v1-domino mbr-iconfont mbr-iconfont-btn\"></span>what?</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -708,7 +708,7 @@
           "subtitle1": "HARDWARE",
           "caption1": "The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is a capable little device that enables people of all ages to explore computing, and to learn how to program in languages like Scratch and Python.\n<br><br>Building a full node is a fun project (PBL) you can do with students of any age, and there are hundreds even more innovative projects online for students to explore.<br><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.amazon.com.au/Raspberry-Pi-Model-4GB-RAM/dp/B07TC2BK1X/ref=sr_1_2?keywords=raspberry+pi+4&amp;qid=1587962837&amp;sr=8-2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">order one</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://github.com/kdmukai/raspi4_bitcoin_node_tutorial\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v2-bitcoin-app mbr-iconfont mbr-iconfont-btn\"></span> FULL.NODE</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://pi-hole.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"imind-block-cloud mbr-iconfont mbr-iconfont-btn\"></span>PiHole</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.amazon.com.au/Raspberry-Pi-Model-4GB-RAM/dp/B07TC2BK1X/ref=sr_1_2?keywords=raspberry+pi+4&amp;qid=1587962837&amp;sr=8-2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v3-desktop-computer-2 mbr-iconfont mbr-iconfont-btn\"></span>order one</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://github.com/kdmukai/raspi4_bitcoin_node_tutorial\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v2-bitcoin-app mbr-iconfont mbr-iconfont-btn\"></span> FULL.NODE</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://pi-hole.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"imind-block-cloud mbr-iconfont mbr-iconfont-btn\"></span>PiHole</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
